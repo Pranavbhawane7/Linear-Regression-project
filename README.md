@@ -1,17 +1,17 @@
-# 🚗 Car Price Prediction using Linear Regression
+# Car Price Prediction using Linear Regression
 
-## 📌 Project Overview
+## Project Overview
 This project applies **Linear Regression** to predict automobile prices based on key performance and efficiency features.  
 It demonstrates end‑to‑end data analysis, model building, and evaluation using Python and scikit‑learn.
 
 ---
 
-## 🎯 Objective
+## Objective
 To build a regression model that explains how **engine size, horsepower, and highway‑mpg** influence car prices, and to evaluate its accuracy using standard metrics.
 
 ---
 
-## 📂 Dataset
+## Dataset
 The dataset contains automobile specifications and prices, including:
 - Engine size
 - Horsepower
@@ -20,7 +20,7 @@ The dataset contains automobile specifications and prices, including:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python** (data analysis & modeling)
 - **Pandas & NumPy** (data wrangling)
 - **Matplotlib & Seaborn** (visualization)
@@ -28,7 +28,7 @@ The dataset contains automobile specifications and prices, including:
 
 ---
 
-## 🚀 Workflow
+## Workflow
 1. **Data Exploration**  
    - Visualized relationships (horsepower vs. price, mpg vs. price).  
    - Hexbin and regression plots confirmed positive correlation with horsepower and negative correlation with mpg.
@@ -50,4 +50,4 @@ The dataset contains automobile specifications and prices, including:
    - **R²:** ~0.74–0.79 → explains ~79% of price variance.  
    - **MAE:** ~2,635 → average prediction error.  
    - **RMSE:** ~4,065 → typical error size in price units.  
-   - **
+     
