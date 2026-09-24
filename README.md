@@ -49,5 +49,4 @@ The dataset contains automobile specifications and prices, including:
 4. **Model Evaluation**
    - **R²:** ~0.74–0.79 → explains ~79% of price variance.  
    - **MAE:** ~2,635 → average prediction error.  
-   - **RMSE:** ~4,065 → typical error size in price units.  
-     
+   - **RMSE:** ~4,065 → typical error size in price units.
