@@ -21,6 +21,8 @@ The dataset contains automobile specifications and prices, including:
 ---
 ## Observations
 Relation between horsepoower and price
+
+
 <img width="616" height="542" alt="image" src="https://github.com/user-attachments/assets/b4063511-f82d-4b78-b99f-cdba1c36d90a" />
 
 
