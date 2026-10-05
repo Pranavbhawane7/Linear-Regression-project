@@ -25,6 +25,11 @@ Relation between horsepoower and price
 
 <img width="616" height="542" alt="image" src="https://github.com/user-attachments/assets/b4063511-f82d-4b78-b99f-cdba1c36d90a" />
 
+Relation between highway-mpg and price
+
+<img width="622" height="412" alt="image" src="https://github.com/user-attachments/assets/497e8eab-20ba-40bb-9037-0eed99fceb8f" />
+
+
 
 ---
 
