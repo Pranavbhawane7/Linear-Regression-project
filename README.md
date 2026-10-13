@@ -44,7 +44,7 @@ Relation between highway-mpg and price
 ## Workflow
 1. **Data Exploration**  
    - Visualized relationships (horsepower vs. price, mpg vs. price).  
-   - Hexbin and regression plots confirmed positive correlation with horsepower and negative correlation with mpg.
+   - Hexbin and regression plots confirmed positive correlation with horsepower and negative correlation with mpg. 
 
 2. **Model Training**  
    - Features: `engine-size`, `horsepower`, `highway-mpg`  
